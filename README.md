@@ -1,3 +1,4 @@
 # react-robo-friends
 
-## Boilerplate to React directions on how to use this repo
+## Boilerplate about directions on how to use this repo
+(React)
